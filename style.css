@@ -23,6 +23,7 @@ nav > header {
 header > #title {
 	font-family: "MuseoModerno";
 	font-size: 20px;
+    text-align: center;
 }
 header > .nav-buttons {
 	margin-left: auto;
