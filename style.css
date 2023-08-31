@@ -23,7 +23,6 @@ nav > header {
 header > #title {
 	font-family: "MuseoModerno";
 	font-size: 20px;
-    text-align: center;
 }
 header > .nav-buttons {
 	margin-left: auto;
@@ -133,6 +132,9 @@ header > .nav-buttons {
 	font-family: "Quicksand";
 	color: rgb(150, 150, 150);
 	margin: 0;
+}
+.intro {
+    text-align: center;
 }
 .underline {
 	text-decoration: underline;
